@@ -1,0 +1,21 @@
+C:\Users\IEUser\Desktop\trabalho-web\Show do Pila\Show do Pila\bin\roslyn\csc.exe
+C:\Users\IEUser\Desktop\trabalho-web\Show do Pila\Show do Pila\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\IEUser\Desktop\trabalho-web\Show do Pila\Show do Pila\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\IEUser\Desktop\trabalho-web\Show do Pila\Show do Pila\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\IEUser\Desktop\trabalho-web\Show do Pila\Show do Pila\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\IEUser\Desktop\trabalho-web\Show do Pila\Show do Pila\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\IEUser\Desktop\trabalho-web\Show do Pila\Show do Pila\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\IEUser\Desktop\trabalho-web\Show do Pila\Show do Pila\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\IEUser\Desktop\trabalho-web\Show do Pila\Show do Pila\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\IEUser\Desktop\trabalho-web\Show do Pila\Show do Pila\bin\roslyn\vbc.exe
+C:\Users\IEUser\Desktop\trabalho-web\Show do Pila\Show do Pila\bin\roslyn\VBCSCompiler.exe
+C:\Users\IEUser\Desktop\trabalho-web\Show do Pila\Show do Pila\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\IEUser\Desktop\trabalho-web\Show do Pila\Show do Pila\bin\Show do Pila.dll.config
+C:\Users\IEUser\Desktop\trabalho-web\Show do Pila\Show do Pila\bin\Show do Pila.dll
+C:\Users\IEUser\Desktop\trabalho-web\Show do Pila\Show do Pila\bin\Show do Pila.pdb
+C:\Users\IEUser\Desktop\trabalho-web\Show do Pila\Show do Pila\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\IEUser\Desktop\trabalho-web\Show do Pila\Show do Pila\bin\MySql.Data.dll
+C:\Users\IEUser\Desktop\trabalho-web\Show do Pila\Show do Pila\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\IEUser\Desktop\trabalho-web\Show do Pila\Show do Pila\obj\Debug\Show do Pila.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Desktop\trabalho-web\Show do Pila\Show do Pila\obj\Debug\Show do Pila.dll
+C:\Users\IEUser\Desktop\trabalho-web\Show do Pila\Show do Pila\obj\Debug\Show do Pila.pdb
